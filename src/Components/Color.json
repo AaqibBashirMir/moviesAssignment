@@ -1,0 +1,39 @@
+[
+    {
+        "colorcode":"#FF0000",
+        "name": "Red"
+    },
+    {
+        "colorcode":"#00FFFF",
+        "name": "cyan"
+    },
+    {
+        "colorcode":"#0000FF",
+        "name": "Blue"
+    },
+    {
+        "colorcode":"#00008B",
+        "name": "DarkBlue"
+    },
+    {
+        "colorcode":"#ADD8E6",
+        "name": "LightBlue"
+    },
+    {
+        "colorcode":"#FF0000",
+        "name": "Red"
+    },
+    {
+        "colorcode":"#800080",
+        "name": "Purple"
+    },
+    {
+        "colorcode":"#FFFF00",
+        "name": "Yellow"
+    },
+    {
+        "colorcode":"#00FF00",
+        "name": "Lime"
+    }
+
+]
